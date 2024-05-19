@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Localiza tu ciudad App</string>
+    <string name="search_by_city">Buscar por Ciudad o Lugar</string>
+    <string name="search_by_lat_long">Buscar por Latitud y Longitud</string>
+    <string name="city_or_place_hint">Introducir ciudad o lugar</string>
+    <string name="latitude_hint">Latitud</string>
+    <string name="longitude_hint">Longitud</string>
+    <string name="search_button">Buscar</string>
+</resources>
